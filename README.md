@@ -1,8 +1,15 @@
 - 👋 Hi, I’m @SundarGopal
 - 👀 I’m interested in Data Engineering and Science
 - 🌱 I’m currently learning PowerBi, Apache Airflow, Docker, Redshift
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on python and data related projects
 - 📫 You can reach me through sundargopal17@gmail.com
+
+## GitHub Stats
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SundarGopal&show_icons=true)
+## Most Used Languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SundarGopal&theme=blue-green)
+## Profile View Counter
+![Profile View Counter](https://komarev.com/ghpvc/?username=SundarGopal)
 
 <!---
 SundarGopal/SundarGopal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
