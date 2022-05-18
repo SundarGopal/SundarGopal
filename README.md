@@ -11,7 +11,7 @@
 ## Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=SundarGopal)
 ## Pinned Repos
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SundarGopal&repo=github-readme-stats&theme=nord)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SundarGopal&repo=BreastCancerRiskScore&theme=nord)
 
 <!---
 SundarGopal/SundarGopal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
