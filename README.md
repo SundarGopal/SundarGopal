@@ -7,7 +7,7 @@
 ## GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SundarGopal&show_icons=true&theme=dark)
 ## Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SundarGopal&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SundarGopal&layout=compact)
 ## Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=SundarGopal)
 
