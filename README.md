@@ -5,9 +5,9 @@
 - 📫 You can reach me through sundargopal17@gmail.com
 
 ## GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SundarGopal&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SundarGopal&show_icons=true&theme=nord)
 ## Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SundarGopal&layout=compact)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SundarGopal&layout=compact&theme=nord)
 ## Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=SundarGopal)
 
