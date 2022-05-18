@@ -5,6 +5,7 @@
 - 📫 You can reach me through sundargopal17@gmail.com
 
 ## GitHub Stats
+![Sundar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SundarGopal)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SundarGopal&show_icons=true)
 ## Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SundarGopal&theme=blue-green)
