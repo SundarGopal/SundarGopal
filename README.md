@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SundarGopal
 - 👀 I’m interested in Data Engineering and Science
-- 🌱 I’m currently using PowerBi, Apache Airflow, Docker, Redshift and SQL
+- 🌱 I’m currently using PowerBI, Apache Airflow, DBT, Docker, Redshift and SQL
 - 💞️ I’m looking to collaborate on python and data related projects
 - 📫 You can reach me through sundargopal17@gmail.com
 
